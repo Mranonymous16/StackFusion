@@ -1,9 +1,6 @@
 # StackFusion
 
-Django-Angular based solution for the assignment given by Algo Focus.
-
-
-Contact in need of any issues/queries. 
+Django-Angular based solution.
 
 `(venv1)~/StackFusion/StackFusion$ python manage.py runserver 8000`
 
